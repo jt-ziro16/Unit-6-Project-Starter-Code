@@ -1,0 +1,63 @@
+body {
+
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 150px;
+}
+
+.yes-button {
+    height: 40px;
+}
+
+
+.Part-Two-Yes {
+    font-size: 20px;
+    display: none;
+    
+}
+
+
+.Part-Two-No {
+    font-size: 20px;
+    display: none;
+}
+
+.Story-Ending-Good {
+    font-size: 20px;
+    display: none;
+}
+
+.Story-Ending-Bad {
+    font-size: 20px;
+    display: none;
+}
+
+.treasure-img {
+    height: 150px;
+}
+
+h1 {
+    font-size: 20px;
+    color: black;
+}
